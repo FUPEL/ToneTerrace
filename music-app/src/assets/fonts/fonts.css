@@ -1,0 +1,189 @@
+/* fonts.css */
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-Heavy.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-HeavyItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'EthosNova';
+    src: url('./EthosNova/EthosNova-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PhosphorusSelenide';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./PhosphorusSelenide/Phosph09.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-Black.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-HeavyItalic.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-BoldItalic.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-Italic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-LightItalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-Hair.otf') format('opentype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FranieTest';
+    src: url('./FranieTest/FranieVariableTest-HairItalic.otf') format('opentype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Momxt';
+    src: url('./Momxt/Mom«t___.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Soopa';
+    src: url('./soopafre.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
